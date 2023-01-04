@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    text-align: center;
+    font-size: 33px;
+    padding: 36px;
+    border-radius: 12px;
+    background-color: aquamarine;
+    color:rebeccapurple;
+}
+h1 {
+  text-align: center;
+  font-family:fantasy;
+  padding: 16px;
+  border-radius: 11px;
+  background-color: blue;
+}
+footer {
+    text-align-last: center;
+    border-radius: 34px;
+    background-color: blueviolet;
+}
+nav {
+    background-color: hotpink;
+   border-radius:10px;
+  border-color: greenyellow;
+  font-size:14px;
+  font-family:fantasy;
+} img {
+  background-color: aqua;
+ text-align: center;
+}
+p {
+ font-family:fantasy;
+}
+h2 {
+  font-size:36px;
+  color:darkgreen;background-color: goldenrod;
+  border-radius:21px;
+  text-align: center;
+}
